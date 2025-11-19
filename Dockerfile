@@ -1,5 +1,5 @@
 # STAGE 1
-FROM gradle:jdk21-alpine AS builder
+FROM gradle:jdk21 AS builder
 
 WORKDIR /app
 
