@@ -1,2 +1,1 @@
-# iplacex-discografica-api-rodrigo_munoz
-API REST Spring Discográfica
+API REST Spring para administración de discografías de empleados de IPLACEX
